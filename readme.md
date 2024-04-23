@@ -14,7 +14,7 @@ Con este ejercicio se genera una web que permite al usuario ingresar coordenadas
 - Haz clic en el botón "Enviar" para ubicar el avión en el mapa.
 
 3. **Demo:**
-![Destino Aleatorio](images/destino-aleatorio.gif)
+![Destino Aleatorio](images/demo-destino-aleatorio.gif)
 
 **Esta versión no está optimizada para dispositivos móviles.**
 
