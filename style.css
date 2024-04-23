@@ -1,0 +1,29 @@
+.body-section {
+    background-color: #d9fcff;
+    text-align: center;
+}
+
+#animar {
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
+
+.image-map {
+    width: 100%;
+}
+
+form label {
+    font-size: 20px;
+}
+
+#airplane {
+    position: absolute;
+    left: 50%;
+
+}
+
+#airplane img {
+    width: 60px;
+
+}
