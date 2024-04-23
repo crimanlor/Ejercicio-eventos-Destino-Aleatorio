@@ -13,7 +13,8 @@ Con este ejercicio se genera una web que permite al usuario ingresar coordenadas
 - Introduce las coordenadas X e Y en los campos de entrada.
 - Haz clic en el botón "Enviar" para ubicar el avión en el mapa.
 
-3. **Demo:**
+3. **Visualizar Demo:**
+
 ![Destino Aleatorio](images/demo-destino-aleatorio.gif)
 
 **Esta versión no está optimizada para dispositivos móviles.**
