@@ -1,5 +1,5 @@
 
-# Ejercicio de Eventos "Destino Aleatorio" - Curso Desarrollo Applicaciones con Tecnologías Web
+# Ejercicio de Eventos "Destino Aleatorio" - Curso Desarrollo Aplicaciones con Tecnologías Web
 
 Con este ejercicio se genera una web que permite al usuario ingresar coordenadas (X, Y) para posicionar un avión sobre un mapa, simulando la ubicación de un destino aleatorio. Es una aplicación interactiva básica que utiliza HTML, CSS y JavaScript para mostrar un avión en diferentes ubicaciones dentro de un mapa mundial.
 
